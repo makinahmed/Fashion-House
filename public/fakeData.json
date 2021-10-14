@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "price": 1050,
+    "img": "https://i.ibb.co/0sCjsvs/img-4.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 2,
+    "price": 1250,
+    "img": "https://i.ibb.co/W3sTPD6/img-1.jpg",
+    "category": "Sharee"
+  },
+  {
+    "id": 3,
+    "price": 1650,
+    "img": "https://i.ibb.co/YcPGf8b/img-38.jpg",
+    "category": "3 Pieces"
+  },
+  {
+    "id": 4,
+    "price": 1450,
+    "img": "https://i.ibb.co/0B7mrwb/img-3.jpg",
+    "category": "3 Pieces"
+  },
+  {
+    "id": 5,
+    "price": 1060,
+    "img": "https://i.ibb.co/0sCjsvs/img-4.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 6,
+    "price": 1160,
+    "img": "https://i.ibb.co/M6KKk4w/img-5.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 7,
+    "price": 1330,
+    "img": "https://i.ibb.co/YRP1q3H/img-6.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 8,
+    "price": 1550,
+    "img": "https://i.ibb.co/XxVXMFf/img-8.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 9,
+    "price": 1450,
+    "img": "https://i.ibb.co/bRMNzTh/img-9.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 10,
+    "price": 1450,
+    "img": "https://i.ibb.co/qdP6MMC/img-10.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 11,
+    "price": 1150,
+    "img": "https://i.ibb.co/qxTFqxd/img-11.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 12,
+    "price": 1750,
+    "img": "https://i.ibb.co/PxcZkhJ/img-12.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 13,
+    "price": 1750,
+    "img": "https://i.ibb.co/0YBJhNq/img-13.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 14,
+    "price": 1550,
+    "img": "https://i.ibb.co/HTNkZnG/img-14.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 15,
+    "price": 1850,
+    "img": "https://i.ibb.co/kyJHvmt/img-15.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 16,
+    "price": 1650,
+    "img": "https://i.ibb.co/QDstSCS/img-16.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 17,
+    "price": 1900,
+    "img": "https://i.ibb.co/1TKtSnT/img-17.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 18,
+    "price": 1900,
+    "img": "https://i.ibb.co/6np5HpT/img-18.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 19,
+    "price": 1970,
+    "img": "https://i.ibb.co/k8MgcQM/img-19.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 20,
+    "price": 1220,
+    "img": "https://i.ibb.co/gmYttm0/img-20.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 21,
+    "price": 1350,
+    "img": "https://i.ibb.co/JnXMzqC/img-21.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 22,
+    "price": 1770,
+    "img": "https://i.ibb.co/vXCsnqr/img-22.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 23,
+    "price": 1670,
+    "img": "https://i.ibb.co/jzpw9b0/img-23.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 24,
+    "price": 1770,
+    "img": "https://i.ibb.co/850hXK9/img-24.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 25,
+    "price": 1170,
+    "img": "https://i.ibb.co/99TKY0Q/img-25.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 26,
+    "price": 1220,
+    "img": "https://i.ibb.co/4mfqP1M/img-26.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 27,
+    "price": 1360,
+    "img": "https://i.ibb.co/gtwC6C5/img-27.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 28,
+    "price": 1220,
+    "img": "https://i.ibb.co/0Zpqfkc/img-28.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 29,
+    "price": 1500,
+    "img": "https://i.ibb.co/W3hxtbZ/img-29.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 30,
+    "price": 1300,
+    "img": "https://i.ibb.co/V3h8ymM/img-30.jpg",
+    "category": "Panjabi"
+  },
+  
+  {
+    "id": 31,
+    "price": 1900,
+    "img": "https://i.ibb.co/F0BS0v0/img-39.jpg",
+    "category": "Sharee"
+  },
+ 
+  {
+    "id": 32,
+    "price": 3000,
+    "img": "https://i.ibb.co/d0MyH42/img-41.jpg",
+    "category": "Sharee"
+  },
+  {
+    "id": 33,
+    "price": 3200,
+    "img": "https://i.ibb.co/Lg0qPtt/img-42.jpg",
+    "category": "Sharee"
+  },
+  {
+    "id": 34,
+    "price": 3500,
+    "img": "https://i.ibb.co/KDGrJ8j/img-43.jpg",
+    "category": "Sharee"
+  },
+  {
+    "id": 35,
+    "price": 4000,
+    "img": "https://i.ibb.co/YXJTYWW/img-44.jpg",
+    "category": "Sharee"
+  },
+  {
+    "id": 36,
+    "price": 4300,
+    "img": "https://i.ibb.co/YXJTYWW/img-44.jpg",
+    "category": "Sharee"
+  },
+  {
+    "id": 37,
+    "price": 2500,
+    "img": "https://i.ibb.co/20JRFSZ/img-45.jpg",
+    "category": "3 Pieces"
+  },
+  {
+    "id": 38,
+    "price": 2100,
+    "img": "https://i.ibb.co/ZYBrx79/img-46.jpg",
+    "category": "3 Pieces"
+  },
+  {
+    "id": 39,
+    "price": 1900,
+    "img": "https://i.ibb.co/7zk4K1H/img-47.jpg",
+    "category": "3 Pieces"
+  },
+  {
+    "id": 40,
+    "price": 9500,
+    "img": "https://i.ibb.co/CP0ndnf/img-49.jpg",
+    "category": "3 Pieces"
+  },
+  {
+    "id": 41,
+    "price": 1030,
+    "img": "https://i.ibb.co/VQxjHsD/img-7.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 42,
+    "price": 1770,
+    "img": "https://i.ibb.co/vXCsnqr/img-22.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 43,
+    "price": 1770,
+    "img": "https://i.ibb.co/vXCsnqr/img-22.jpg",
+    "category": "Panjabi"
+  },
+  {
+    "id": 44,
+    "price": 1300,
+    "img": "https://i.ibb.co/YcPGf8b/img-38.jpg",
+    "category": "3 Pieces"
+  },
+  {
+    "id": 45,
+    "price": 1800,
+    "img": "https://i.ibb.co/YcPGf8b/img-38.jpg",
+    "category": "3 Pieces"
+  },{
+    "id": 46,
+    "price": 1300,
+    "img": "https://i.ibb.co/V3h8ymM/img-30.jpg",
+    "category": "Panjabi"
+  }, {
+    "id": 47,
+    "price": 5000,
+    "img": "https://i.ibb.co/P136nmn/img-40.jpg",
+    "category": "Sharee"
+  }
+]

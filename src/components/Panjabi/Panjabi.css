@@ -1,0 +1,35 @@
+.panjabi-img {
+    width: auto;
+    height: 400px;
+}
+.panjabi-card {
+    text-align: center;
+    /* width: 100%; */
+    display: absolute;
+}
+.details {
+    display: relative;
+    display: none;
+    margin-left: -20px;
+    width:118%;
+    margin-top: -80px;
+  
+}
+.details a {
+    display: none;
+}
+.details a {
+    padding: 30px 0;
+    width: 100%;
+    display: block;
+    text-decoration: none;
+    color: black;
+  
+}
+.panjabi-card:hover .details ,.details a{
+    display: block;
+    background-color: snow;
+    opacity: .8;
+    height: 70px;
+    color: black;
+}

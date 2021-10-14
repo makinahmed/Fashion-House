@@ -1,0 +1,27 @@
+.banner-text {
+    color: white;
+    font-size: 2rem;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: translateY(-50%);
+}
+
+.banner-btn {
+    outline: 1px solid snow;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+.banner-btn:hover {
+    background-color: rgb(241, 234, 234);
+    color: black;
+}
+.checkout {
+    font-weight: 4; 
+    font-size: medium;
+}
+.banner-img {
+    /* background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('landingpagepic.jpg'); */
+
+}
