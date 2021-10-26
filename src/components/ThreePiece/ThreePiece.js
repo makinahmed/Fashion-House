@@ -18,7 +18,6 @@ const ThreePiece = (props) => {
                             <Link to={`/threePieces/${id}`}>
                             <button className="btn btn-secondary">QUICK VIEW</button>
                             </Link>
-                            <a href="/">QUICK VIEW</a>
                         </div>
                     </Card.Body>
                     <Card.Title>Price : {price} Tk. </Card.Title>
